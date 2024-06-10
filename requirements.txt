@@ -1,0 +1,11 @@
+llama-index
+openai
+pypdf
+streamlit
+langchain
+langchain-groq 
+langchain-openai
+langchain.chains
+langchain-community
+python-dotenv
+faiss-cpu
